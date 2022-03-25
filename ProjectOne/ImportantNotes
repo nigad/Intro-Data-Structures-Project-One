@@ -1,0 +1,3 @@
+The shuffled deck of cards, before it has been dealt, is represented as an array stack. 
+The tableau is represented as an array of piles. 
+Each pile in the tableau is represented as a linked stack. 
